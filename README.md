@@ -8,3 +8,11 @@ I was helping myself with AI, specificly Gemini, becouse i dont know how to use 
 required pacages: python, python3, pyqt6, qt5-tools
 use this command on archlinux/manjaro/cachyos to install them all:
 sudo pacman -S python python3, pyqt6 qt5-tools
+
+Warning! do the things i mention below only if you know what you are doing!
+it works only in kde plasma:
+if you want to get rid of plasmas start menu under the super (windows) key then use this command in terminal:
+plasmashell --replace &
+if you want to then get back normal plasma desktop: open terminal and enter: 
+plasmashell
+do not turn off the terminal yet, wait until its fully loaded and restert your computer.
