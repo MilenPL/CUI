@@ -8,5 +8,3 @@ I was helping myself with AI, specificly Gemini, becouse i dont know how to use 
 required pacages: python, python3, pyqt6, qt5-tools
 use this command on archlinux/manjaro/cachyos to install them all:
 sudo pacman -S python python3, pyqt6 qt5-tools
-
-The code on inside (especially comments) are in polish, becouse I am Polish. tho whole UI should be in english.
