@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[pl_PL]=
+Comment=
+Exec=/home/mieszany/Projekty/CUI-alpha/CUI/26-02-02-alpha-pl.py
+GenericName[pl_PL]=
+GenericName=
+Icon=/home/mieszany/Projekty/CUI-alpha/grafic/GOD_logo2-removebg-preview.png
+MimeType=
+Name[pl_PL]=CUI-alpha-PL_launcher
+Name=CUI-alpha-PL_launcher
+Path=/home/mieszany/Projekty/CUI-alpha/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

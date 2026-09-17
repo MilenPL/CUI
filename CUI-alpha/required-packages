@@ -1,0 +1,5 @@
+this program requires these packages:
+python3, pyqt6, qt5-tools
+
+use this command on arch linux / manjaro/ cachyos to install them all:
+sudo pacman -S python pyqt6 qt5-tools

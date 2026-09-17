@@ -1,0 +1,80 @@
+{
+    "wallpaper": "grafic/wallpapers/wallpaper1.png",
+    "theme_name": "Cyan (Default)",
+    "timezone": "Europe/Warsaw",
+    "help_button_visible": true,
+    "orbit_icons": [
+        {
+            "name": "Terminal",
+            "cmd": "kitty",
+            "is_dir": false,
+            "icon_name": "utilities-terminal"
+        },
+        {
+            "name": "Browser",
+            "cmd": "google-chrome",
+            "is_dir": false,
+            "icon_name": "web-browser"
+        },
+        {
+            "name": "Documents",
+            "cmd": "/home/mieszany/Documents",
+            "is_dir": true,
+            "icon_name": "folder-documents"
+        },
+        {
+            "name": "Downloads",
+            "cmd": "/home/mieszany/Downloads",
+            "is_dir": true,
+            "icon_name": "folder-download"
+        },
+        {
+            "name": "Music",
+            "cmd": "/home/mieszany/Music",
+            "is_dir": true,
+            "icon_name": "folder-music"
+        },
+        {
+            "name": "Pictures",
+            "cmd": "/home/mieszany/Pictures",
+            "is_dir": true,
+            "icon_name": "folder-pictures"
+        },
+        {
+            "name": "Videos",
+            "cmd": "/home/mieszany/Videos",
+            "is_dir": true,
+            "icon_name": "folder-videos"
+        },
+        {
+            "name": "Code / Editor",
+            "cmd": "code",
+            "is_dir": false,
+            "icon_name": "text-editor"
+        },
+        {
+            "name": "Settings",
+            "cmd": "systemsettings",
+            "is_dir": false,
+            "icon_name": "preferences-system"
+        },
+        {
+            "name": "Manager",
+            "cmd": "dolphin",
+            "is_dir": false,
+            "icon_name": "system-file-manager"
+        },
+        {
+            "name": "Home",
+            "cmd": "/home/mieszany",
+            "is_dir": true,
+            "icon_name": "user-home"
+        },
+        {
+            "name": "Calculator",
+            "cmd": "kcalc",
+            "is_dir": false,
+            "icon_name": "accessories-calculator"
+        }
+    ]
+}
