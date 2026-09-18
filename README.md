@@ -5,6 +5,8 @@ In CUI icons are placed on a disk around the clocks face instead of a convencion
 
 I was helping myself with AI, specificly Gemini, becouse i dont know how to use the PyQt libary. I will learn at some point tho.
 
+If you encounter any bugs, please tell me about that. I will fix them asap.
+
 required pacages: python, python3, pyqt6, qt5-tools
 use this command on archlinux/manjaro/cachyos to install them all:
 sudo pacman -S python python3, pyqt6 qt5-tools
